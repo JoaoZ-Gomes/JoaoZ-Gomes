@@ -23,7 +23,7 @@
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas** no IFBA Campus Irecê
 - 🔵 Experiência avançada em **linguagem C** com foco em estrutura de dados
 - ☕ Desenvolvendo habilidades em **Java** e POO
-- 🧠 Interesse em algoritmos complexos e soluções eficientes
+- � Interesse em algoritmos complexos e soluções eficientes
 - 🏆 Participante ativo de maratonas de programação
 
 ## 🛠 Stack Tecnológica
@@ -42,10 +42,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://giffiles.alphacoders.com/756/75682.gif" alt="Coding GIF" style="width: 100%; max-width: 400px; border-radius: 8px;"/>
-</div>
-
 ## 📊 GitHub Analytics
 <div align="center" style="margin-top: 30px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoZ-Gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -55,6 +51,13 @@
 ---
 
 <p align="center" style="margin-top: 40px;">
-  <i style="font-size: 1.1em;">"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."</i> 🚀<br><br>
+  <i style="font-size: 1.1em;">"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."</i> 🚀
+</p>
+
+<div align="center" style="margin: 40px 0;">
+  <img src="https://giffiles.alphacoders.com/756/75682.gif" alt="Coding GIF" style="width: 100%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"/>
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoaoZ-Gomes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Visualizações do perfil"/>
 </p>
