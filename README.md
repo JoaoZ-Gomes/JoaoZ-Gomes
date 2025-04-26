@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Instituto_Federal_-_Marca_Vertical_2015.png" alt="Logo IFBA" width="150"/>
 </p>
 
-# Olá! 👋
+# Olá!  Eu sou João Gomes👋
 
 🎓 Sou um estudante do **IFBA**, apaixonado por tecnologia e programação!
 
@@ -29,4 +29,4 @@
 
 ---
 
-> _"A jornada de mil milhas começa com o primeiro passo."_ ✨
+> _"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."_ ✨
