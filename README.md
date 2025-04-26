@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Instituto_Federal_-_Marca_Vertical_2015.png/400px-Instituto_Federal_-_Marca_Vertical_2015.png" alt="Logo IFBA" width="150"/>
+  <img src="https://github.com/JoaoZ-Gomes/JoaoZ-Gomes/blob/main/IFBA_MARCA_vertical-01.png?raw=true" alt="Logo IFBA" width="150"/>
 </p>
 
-# Olá!  Eu sou João Gomes👋
+# Olá!,Eu sou João Gomes 👋
 
 🎓 Sou um estudante do **IFBA**, apaixonado por tecnologia e programação!
 
@@ -29,4 +29,4 @@
 
 ---
 
-> _"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."_ ✨
+> _"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."_ 🚀
