@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Instituto_Federal_-_Marca_Vertical_2015.png" alt="Logo IFBA" width="150"/>
+</p>
 
-<!--
-**JoaoZ-Gomes/JoaoZ-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋
 
-Here are some ideas to get you started:
+🎓 Sou um estudante do **IFBA**, apaixonado por tecnologia e programação!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Atualmente estudo **Análise e Desenvolvimento de Sistemas**.
+- 🔵 Tenho experiência com **C**.
+- ☕ Estou aprendendo **Java** para expandir meus conhecimentos.
+- 🚀 Gosto de resolver problemas e criar projetos que me desafiem a evoluir.
+
+## 📚 Tecnologias e Ferramentas
+
+### Linguagens
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### IDEs/Ferramentas
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 Objetivos
+- Me tornar um desenvolvedor full stack.
+- Contribuir para projetos open source.
+- Continuar aprendendo todos os dias.
+
+---
+
+> _"A jornada de mil milhas começa com o primeiro passo."_ ✨
