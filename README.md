@@ -1,32 +1,50 @@
 <p align="center">
-  <img src="https://github.com/JoaoZ-Gomes/JoaoZ-Gomes/blob/main/MARCA_IFBA_CAMPUS_HORIZONTAL_completa_negativaBRANCA_IRECE.png?raw=true" alt="Logo IFBA" width="300"/>
+  <div style="background-color: #0D1117; padding: 15px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://github.com/JoaoZ-Gomes/JoaoZ-Gomes/blob/main/MARCA_IFBA_CAMPUS_HORIZONTAL_completa_negativaBRANCA_IRECE.png?raw=true" 
+         alt="Logo IFBA" 
+         width="350"/>
+  </div>
 </p>
 
-# Olá!,Eu sou João Gomes 👋
+<h1 align="center">Olá! Eu sou João Gomes 👋</h1>
 
-🎓 Sou um estudante do **IFBA**, apaixonado por tecnologia e programação!
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFBA</h3>
 
-- 💻 Atualmente estudo **Análise e Desenvolvimento de Sistemas**.
-- 🔵 Tenho experiência com **C**.
-- ☕ Estou aprendendo **Java** para expandir meus conhecimentos.
-- 🚀 Gosto de resolver problemas e criar projetos que me desafiem a evoluir.
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-## 📚 Tecnologias e Ferramentas
+## 🚀 Sobre Mim
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** no IFBA
+- 🔵 Experiência sólida em **C** para desenvolvimento de sistemas
+- ☕ Aprendendo **Java** e conceitos de POO
+- 🚀 Buscando desafios que me façam evoluir como desenvolvedor
 
-### Linguagens
+## 🛠 Stack Tecnológica
+
+### Linguagens de Programação
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### IDEs/Ferramentas
+### Ferramentas e IDEs
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Objetivos
-- Me tornar um desenvolvedor full stack.
-- Contribuir para projetos open source.
-- Continuar aprendendo todos os dias.
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoZ-Gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoZ-Gomes&layout=compact&langs_count=5&theme=dracula"/>
+</p>
 
 ---
 
-> _"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."_ 🚀
+<p align="center">
+  <i>"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."</i> 🚀<br>
+  <img src="https://komarev.com/ghpvc/?username=JoaoZ-Gomes&color=blueviolet" alt="Profile views"/>
+</p>
