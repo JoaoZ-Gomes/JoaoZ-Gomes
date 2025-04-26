@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JoaoZ-Gomes/JoaoZ-Gomes/blob/main/MARCA_IFBA_CAMPUS_HORIZONTAL_completa_negativaBRANCA_IRECE.png?raw=true" alt="Logo IFBA" width="150"/>
+  <img src="https://github.com/JoaoZ-Gomes/JoaoZ-Gomes/blob/main/MARCA_IFBA_CAMPUS_HORIZONTAL_completa_negativaBRANCA_IRECE.png?raw=true" alt="Logo IFBA" width="300"/>
 </p>
 
 # Olá!,Eu sou João Gomes 👋
