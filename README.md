@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://giffiles.alphacoders.com/756/75682.gif" alt="Coding GIF" style="width: 100%; max-width: 400px; border-radius: 8px;"/>
+</div>
+
 ## 📊 GitHub Analytics
 <div align="center" style="margin-top: 30px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoZ-Gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -52,5 +56,5 @@
 
 <p align="center" style="margin-top: 40px;">
   <i style="font-size: 1.1em;">"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."</i> 🚀<br><br>
-  <img src="https://komarev.com/ghpvc/?username=JoaoZ-Gomes&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=JoaoZ-Gomes&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Visualizações do perfil"/>
 </p>
