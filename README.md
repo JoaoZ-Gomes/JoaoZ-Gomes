@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Instituto_Federal_-_Marca_Vertical_2015.png" alt="Logo IFBA" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Instituto_Federal_-_Marca_Vertical_2015.png/400px-Instituto_Federal_-_Marca_Vertical_2015.png" alt="Logo IFBA" width="150"/>
 </p>
 
 # Olá!  Eu sou João Gomes👋
