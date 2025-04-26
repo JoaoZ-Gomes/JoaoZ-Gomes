@@ -51,6 +51,6 @@
 ---
 
 <p align="center" style="margin-top: 40px;">
-  <i style="font-size: 1.1em;">"Transformo linhas de código em soluções inovadoras."</i> 🚀<br><br>
+  <i style="font-size: 1.1em;">"Evoluir não é uma escolha, é a minha promessa diária a mim mesmo."</i> 🚀<br><br>
   <img src="https://komarev.com/ghpvc/?username=JoaoZ-Gomes&color=blueviolet&style=flat-square" alt="Visualizações do perfil"/>
 </p>
