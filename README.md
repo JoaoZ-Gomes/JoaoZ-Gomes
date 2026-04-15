@@ -11,7 +11,7 @@
 <h3 align="center" style="margin-bottom: 25px;">🎓 Full-Stack Developer | Estudante de ADS no IFBA</h3>
 
 <div align="center" style="margin: 25px 0;">
-  <a href="https://www.linkedin.com/in/JoaoGomes777s" target="_blank" style="margin: 0 10px;">
+  <a href="https:https://www.linkedin.com/in/joaoalgomes/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jgjoaogomespro@gmail.com" style="margin: 0 10px;">
