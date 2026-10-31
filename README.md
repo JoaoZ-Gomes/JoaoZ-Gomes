@@ -17,28 +17,20 @@
 
 ## 👋 Olá, mundo!
 
-Sou **João Gomes**, de **Irecê (BA)**, estudante de **Análise e Desenvolvimento de Sistemas no IFBA** e desenvolvedor Full Stack no time do **Cidades Inteligentes** 🏙️
+Sou **João Gomes**, de **Irecê (BA)**, estudante de **Análise e Desenvolvimento de Sistemas no IFBA** e Full Stack Developer, e faço parte do **Cidades Inteligentes** 🏙️
 
 ```java
 public class JoaoGomes implements Developer {
-    String time        = "Cidades Inteligentes 🏙️";
+    String projeto     = "Cidades Inteligentes 🏙️";
     String superpoder  = "Transformar problema de prefeitura em código";
     String combustivel = "Café, curiosidade e Git ☕";
     boolean aberto     = true; // vagas Java / Full Stack Júnior (remoto)
 }
 ```
 
-## 🏙️ Cidades Inteligentes: meu dia a dia
+## 🏙️ Cidades Inteligentes
 
-Faço parte do projeto que leva tecnologia para a gestão pública de municípios da Bahia. Lá eu:
-
-- ☕ **Desenvolvo em Java**, no back-end dos sistemas dos municípios
-- ⚛️ **Construo telas com React e TypeScript**, para o gestor e o cidadão
-- 🗺️ **Criei o módulo de turismo** do [Conecta Irecê](https://conecta.irece.ba.gov.br/): atrativos da cidade no mapa
-- 🔎 **Liderei a equipe de análise de processos**: escuto o problema, entendo o processo e só depois escrevo código
-- 🤝 **Trabalho em time** com Scrum, Kanban e muito `git pull` antes do café
-
-> Sim, eu coloco a cidade no mapa. Literalmente. 📍
+Faço parte do **Cidades Inteligentes**, projeto que leva tecnologia para a gestão pública de municípios da Bahia. 📍
 
 ## 🛠️ Stack
 
