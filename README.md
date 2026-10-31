@@ -17,24 +17,28 @@
 
 ## 👋 Olá, mundo!
 
-Sou **João Gomes**, de **Irecê (BA)**. Estudo **Análise e Desenvolvimento de Sistemas no IFBA** e sou desenvolvedor Full Stack no projeto **Cidades Inteligentes**, onde levo tecnologia para a gestão pública de municípios baianos.
+Sou **João Gomes**, de **Irecê (BA)**, estudante de **Análise e Desenvolvimento de Sistemas no IFBA** e desenvolvedor Full Stack no time do **Cidades Inteligentes** 🏙️
 
 ```java
 public class JoaoGomes implements Developer {
-    String foco       = "Back-end Java + Front-end React";
-    String missao     = "Software que resolve problema de verdade";
+    String time        = "Cidades Inteligentes 🏙️";
+    String superpoder  = "Transformar problema de prefeitura em código";
     String combustivel = "Café, curiosidade e Git ☕";
-    boolean aberto    = true; // vagas Java / Full Stack Júnior (remoto)
+    boolean aberto     = true; // vagas Java / Full Stack Júnior (remoto)
 }
 ```
 
-## 🔭 No que estou trabalhando
+## 🏙️ Cidades Inteligentes: meu dia a dia
 
-| Projeto | O que é |
-|---|---|
-| 🗺️ **Conecta Irecê** | Módulo de turismo e atrativos georreferenciados do portal municipal ([conecta.irece.ba.gov.br](https://conecta.irece.ba.gov.br/)), com Java, React e TypeScript |
-| 🔐 **PH Team** | Plataforma web de gestão com API REST em Spring Boot, JWT stateless, Spring Security e controle de acesso por perfil (ADMIN / CONSULTOR / CLIENTE) |
-| 📚 **Em estudo** | Spring Boot 3: testes end-to-end, DTOs e Swagger |
+Faço parte do projeto que leva tecnologia para a gestão pública de municípios da Bahia. Lá eu:
+
+- ☕ **Desenvolvo em Java**, no back-end dos sistemas dos municípios
+- ⚛️ **Construo telas com React e TypeScript**, para o gestor e o cidadão
+- 🗺️ **Criei o módulo de turismo** do [Conecta Irecê](https://conecta.irece.ba.gov.br/): atrativos da cidade no mapa
+- 🔎 **Liderei a equipe de análise de processos**: escuto o problema, entendo o processo e só depois escrevo código
+- 🤝 **Trabalho em time** com Scrum, Kanban e muito `git pull` antes do café
+
+> Sim, eu coloco a cidade no mapa. Literalmente. 📍
 
 ## 🛠️ Stack
 
@@ -64,13 +68,6 @@ public class JoaoGomes implements Developer {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
-
-## 💪 Como eu trabalho
-
-- 🧩 **APIs REST e microsserviços** com regras de negócio, segurança e banco relacional
-- 🔄 **Scrum e Kanban** no dia a dia da equipe
-- 🧠 **Análise de processos**: já liderei uma equipe de levantamento e análise de requisitos
-- 🌱 Aprendendo sempre, uma *pull request* por vez
 
 ## 📊 GitHub
 
